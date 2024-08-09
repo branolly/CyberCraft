@@ -439,3 +439,10 @@
     border-right: none;
 }
 /* about redesign */
+
+
+/* dashboard */
+main.dashboard{
+    display: flex;
+    align-items: center;
+}
